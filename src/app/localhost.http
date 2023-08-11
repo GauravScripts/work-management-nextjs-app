@@ -1,0 +1,4 @@
+GET localhost:3000/api/users
+###
+POST localhost:3000/api/users?name=Vasya&phone=1234567890&isActive=true
+
